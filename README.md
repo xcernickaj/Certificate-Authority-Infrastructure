@@ -147,3 +147,4 @@ A revoked certificate should no longer be trusted by the client.
 This project is an educational simulation.  
 It simplifies real-world PKI systems to focus on fundamental cryptographic concepts.  
 It is not intended for production use.
+For more information, try the doc.pdf document.
